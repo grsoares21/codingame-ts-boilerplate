@@ -29,10 +29,6 @@
   },
   "dependencies": {
     "convnetjs-ts": "0.0.9",
-    "kexec": "meteor/node-kexec#update-for-node-12",
     "source-map-peek": "^0.4.0"
-  },
-  "resolutions": {
-    "kexec": "meteor/node-kexec#update-for-node-12"
   }
 }
